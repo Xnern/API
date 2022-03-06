@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xnern/API.git"
+  },
+  "author": "Xnern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xnern/API/issues"
+  },
+  "homepage": "https://github.com/Xnern/API#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "heroku": "^7.59.3",
+    "nodemon": "^2.0.15"
+  }
+}
